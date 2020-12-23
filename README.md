@@ -1,2 +1,3 @@
 # Games
-Follow the instruction by CharlesPikachu's repo &amp; articles
+Games by pygame
+Reference: CharlesPikachu's Game
